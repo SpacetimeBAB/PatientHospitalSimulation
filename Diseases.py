@@ -22,6 +22,12 @@ DiseaseList = [
     "Yellow fever", "Rabies",
 ]
 
+HealthStatus = ["Good", "Perfect", "Decent", "Lethal", "Basically dead", "Horrible"]
+
 
 def getRandomDisease():
     return random.choice(DiseaseList)
+
+
+def getRandomHealthStatus():
+    return random.choice(HealthStatus)

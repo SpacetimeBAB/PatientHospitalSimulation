@@ -10,11 +10,5 @@ with open("patient_names.txt", "r") as file:
 with open("patient_names.txt", "a") as file:
     if "yes" in Register:
         file.write(nameOfPerson + "\n")
-    else:
-        print("Have a great day " + nameOfPerson + ".")
-
-
-
-
-
-
+    # else:
+# print("Have a great day " + nameOfPerson + ".")
