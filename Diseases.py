@@ -1,7 +1,7 @@
 import random
 
 DiseaseList = [
-    "Influenza", "Common cold", "Tuberculosis", "HIV/AIDS", "Sprained ankle", "Malaria", "COVID-19", "Cholera",
+    "Influenza", "Common cold", "Tuberculosis", "HIV", "Sprained ankle", "Malaria", "COVID-19", "Cholera",
     "Measles", "Diabetes mellitus", "Hypertension (High blood pressure)", "Cancer", "Alzheimer's disease",
     "Fractured bone", "Asthma", "Chronic obstructive pulmonary disease (COPD)", "Hepatitis B", "Concussion",
     "Dengue fever", "Ebola virus disease", "Leukemia", "Schizophrenia", "Bipolar disorder", "Epilepsy",

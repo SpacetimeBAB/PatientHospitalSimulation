@@ -27,7 +27,7 @@ def sanitize_name(name):
     return sanitized_name[:255]
 
 
-for i in range(1):
+for i in range(100):
     name = fake.name() # generate the full name
     firstName = name.split()[0] # get the first name from the split of full name
     age = get_random_age()
